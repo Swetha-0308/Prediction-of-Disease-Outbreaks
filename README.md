@@ -13,6 +13,7 @@ Pandas
 NumPy
 Scikit-learn
 streamlit
+
 📊 **Dataset**
 The dataset contains historical records of disease occurrences along with relevant environmental and demographic factors. Data preprocessing includes handling missing values, feature selection, and scaling.
 
@@ -22,19 +23,6 @@ Feature Engineering
 Model Training (SVM & Linear Regression)
 Evaluation & Accuracy Calculation
 Prediction & Visualization
+
 **Results**
 The models were evaluated based on accuracy, precision, and recall.
-
-
-
-
-
-
-
-
-
-
-
-Search
-
-Reason
